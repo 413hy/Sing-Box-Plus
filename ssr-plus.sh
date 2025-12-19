@@ -15,7 +15,7 @@ INDENT=" "
 VERSION="v1.2.2"
 
 # ========== 更新源（可配镜像/IPv4/IPv6/强制覆盖）==========
-RAW_URL_DEFAULT="https://raw.githubusercontent.com/Alvin9999/SSR-Plus/main/ssr-plus.sh"
+RAW_URL_DEFAULT="https://raw.githubusercontent.com/413hy/Sing-Box-Plus/main/ssr-plus.sh"
 
 # ========== 小工具 ==========
 have_cmd(){ command -v "$1" >/dev/null 2>&1; }
