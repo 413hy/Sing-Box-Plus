@@ -4,7 +4,7 @@ script from :https://github.com/Alvin9999/
 
 ### install singbox all (Alvin9999)
 ```bash
-wget -O ssr-plus.sh https://raw.githubusercontent.com/413hy/Sing-Box-Plus/main/sing-box-plus.sh && chmod +x sing-box-plus.sh && bash sing-box-plus.sh
+wget -O sing-box-plus.sh https://raw.githubusercontent.com/413hy/Sing-Box-Plus/main/sing-box-plus.sh && chmod +x sing-box-plus.sh && bash sing-box-plus.sh
 
 ```
 
